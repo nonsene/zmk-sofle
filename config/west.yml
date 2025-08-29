@@ -9,8 +9,8 @@ manifest:
    - name: nonsene
      url-base: https://github.com/nonsene
   projects:
-   - name: cat-animation-1bit
-     remote: nonsene
+    - name: cat-animation-1bit
+      remote: nonsene
       revision: main 
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
